@@ -1,3 +1,4 @@
+# Graphical User Interface For Image Processing
 -This is a GUI-based python project for image processing. The objective of this work was to create an extensible graphical user interface (GUI) using Python, Tkinter, and OpenCV for real-time image processing.
 
 -This project demonstrates how one can make a simple and powerful GUI-based python project for image processing, which is user-friendly and easy to use. In the field of Image processing, although there were some projects and open source codes using Python programming language, they lacked research and were not up to the mark. However, there were some projects which were very good in terms of research and quality but these projects had unnecessary complexities. The solution adapted to this problem was to create a simple GUI which was built by combining Tkinter and OpenCV modules, two powerful, free open source libraries, around the Python programming language.
